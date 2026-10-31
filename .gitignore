@@ -1,4 +1,5 @@
 .venv/
-data/raw/
+**/data/raw/
+**/data/*.db
 __pycache__/
 .ipynb_checkpoints/
